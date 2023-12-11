@@ -154,7 +154,7 @@ th, td{
     padding-bottom: 5%;
 }
 
-.composer {
+#composer {
     display: flex;
     justify-content: center;
     text-align: center;
